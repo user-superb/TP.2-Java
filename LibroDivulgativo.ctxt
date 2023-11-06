@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LibroDivulgativo
+comment1.params=ISBN\ nombre\ cantidadPaginas\ precio\ tipo
+comment1.target=LibroDivulgativo(java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String)
+comment2.params=ISBN\ nombre\ cantidadPaginas\ precio\ fechaPublicacion\ autor\ tipo
+comment2.target=LibroDivulgativo(java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String,\ Autor,\ java.lang.String)
+comment3.params=
+comment3.target=LibroDivulgativo()
+comment4.params=
+comment4.target=java.lang.String\ getTipo()
+comment5.params=tipo
+comment5.target=void\ setTipo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=double\ obtenerPrecioDescuento()
+numComments=8

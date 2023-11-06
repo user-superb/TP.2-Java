@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Editorial
+comment1.params=nombre\ cantidadPremios
+comment1.target=Editorial(java.lang.String,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=nombre\ cantidadPremios\ librosMasVendidos
+comment2.target=Editorial(java.lang.String,\ int,\ Libro[])
+comment3.params=
+comment3.target=Editorial()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=int\ getCantidadPremios()
+comment6.params=
+comment6.target=Libro[]\ getLibrosMasVendidos()
+comment7.params=nombre
+comment7.target=void\ setNombre(java.lang.String)
+comment8.params=cantidadPremios
+comment8.target=void\ setCantidadPremios(int)
+comment9.params=
+comment9.target=double\ calcularPrecio()
+numComments=11
